@@ -1,4 +1,4 @@
-## Hi, I'm Ronald
+## Hi, I'm Ronald — aka Yurmont
 
 Senior Software Engineer based in Lima, Peru. Systems Engineer from the
 National University of Engineering (UNI).
@@ -26,4 +26,4 @@ SQL Server · PostgreSQL · MongoDB · Cosmos DB
 - ACM-ICPC team member back at university
 - Certified ScrumMaster · Microsoft Certified Solutions Developer
 
-📍 Lima, Peru · 🌐 Spanish / English
+📍 Lima, Peru · 🌐 Spanish / English · [LinkedIn](https://www.linkedin.com/in/ronaldyurmont/)
