@@ -40,6 +40,6 @@ distributed teams in the U.S. and Europe.
 - 🧭 Software Architect, Subject Matter Expert and Technical Lead roles
 - 👨‍🏫 Former part-time professor of OOP, web and database development (Cibertec)
 - 🏆 ACM-ICPC team member back at university
-- 📜 Certified ScrumMaster · Microsoft Certified Solutions Developer
+- 📜 Certified Scrum Master & Developer - Microsoft Certified Professional and Solutions Developer
 
 📍 Lima, Peru · 🌐 Spanish / English · 💼 [LinkedIn](https://www.linkedin.com/in/ronaldyurmont/) · 🎵 [TikTok](https://www.tiktok.com/@yurmont)
