@@ -37,6 +37,7 @@ distributed teams in the U.S. and Europe.
 
 ### 🌱 A bit more
 
+- 🧭 Software Architect, Subject Matter Expert and Technical Lead roles
 - 👨‍🏫 Former part-time professor of OOP, web and database development (Cibertec)
 - 🏆 ACM-ICPC team member back at university
 - 📜 Certified ScrumMaster · Microsoft Certified Solutions Developer
