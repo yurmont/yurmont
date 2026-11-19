@@ -41,4 +41,4 @@ distributed teams in the U.S. and Europe.
 - 🏆 ACM-ICPC team member back at university
 - 📜 Certified ScrumMaster · Microsoft Certified Solutions Developer
 
-📍 Lima, Peru · 🌐 Spanish / English · 💼 [LinkedIn](https://www.linkedin.com/in/ronaldyurmont/)
+📍 Lima, Peru · 🌐 Spanish / English · 💼 [LinkedIn](https://www.linkedin.com/in/ronaldyurmont/) · 🎵 [TikTok](https://www.tiktok.com/@yurmontsystems)
