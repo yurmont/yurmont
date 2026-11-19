@@ -2,7 +2,7 @@
 
 Senior Software Engineer based in Lima, Peru. Systems Engineer from the
 National University of Engineering (UNI). I've spent 15+ years building and modernizing enterprise software for
-automotive, healthcare, financial services and real estate, mostly with
+automotive, healthcare, insurance, financial services and real estate, mostly with
 distributed teams in the U.S. and Europe.
 
 ### 🔭 What I usually work on
